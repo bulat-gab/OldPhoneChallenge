@@ -1,3 +1,6 @@
+![dev branch](https://github.com/bulat-gab/OldPhoneChallenge/actions/workflows/dotnet.yml/badge.svg?branch=dev)
+![main branch](https://github.com/bulat-gab/OldPhoneChallenge/actions/workflows/dotnet.yml/badge.svg?branch=main)
+
 # Old Phone Challenge
 
 A command-line application that emulates the functionality of an old mobile phone keypad. It allows users to input sequences of numbers using the traditional multi-tap input method and provides features for converting those sequences into corresponding characters.
