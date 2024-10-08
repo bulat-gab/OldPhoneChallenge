@@ -1,4 +1,3 @@
-![dev branch](https://github.com/bulat-gab/OldPhoneChallenge/actions/workflows/dotnet.yml/badge.svg?branch=dev)
 ![main branch](https://github.com/bulat-gab/OldPhoneChallenge/actions/workflows/dotnet.yml/badge.svg?branch=main)
 
 # Old Phone Challenge
