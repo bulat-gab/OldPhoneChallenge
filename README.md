@@ -25,7 +25,14 @@ A command-line application that emulates the functionality of an old mobile phon
    dotnet restore
    ```
 
-### Usage
+## Repository Structure
+
+- **OldPhoneChallenge.Core**: A class library project that encapsulates the logic for the Old Phone KeyPad functionality.
+- **OldPhoneChallenge.DemoApp**: A demo application that showcases simple usage of the Old Phone KeyPad.
+- **OldPhoneChallenge.ConsoleApp**: A console application designed to parse command-line arguments and invoke methods from the OldPhoneChallenge.Core to perform conversions.
+- **OldPhoneChallenge.Tests**: A project dedicated to unit testing.
+
+## Usage
 
 **Using `dotnet`**
 
